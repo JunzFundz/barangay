@@ -1,3 +1,5 @@
-Thank you for downloading this Bootstrap theme. This theme was downloaded from UseBotstrap.com
+Sa database wa ray na usob and ga add kog CDN links para sa clearance etc. nga forms nga print icon so e download rni nga zip 
 
-If you need more themes, visit our website: http://usebootstrap.com/
+
+Extract => Delete the old files inside xampp>htdocs>"your folder"
+replace with the extracted files
