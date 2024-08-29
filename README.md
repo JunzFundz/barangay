@@ -1,3 +1,9 @@
+Create a database "db_barangay"
+Import the sql file 
+
+user: admin
+pass: admin
+
 ![image](https://github.com/user-attachments/assets/987b83e0-f3e3-46d7-a41c-f97dafade262)
 ![image](https://github.com/user-attachments/assets/210b6e0e-0e6b-4bde-9e30-c6eed2b243a7)
 ![image](https://github.com/user-attachments/assets/164861c6-f3d7-4b29-be92-9719a40701e2)
