@@ -1,7 +1,9 @@
 Create a database "db_barangay"
+
 Import the sql file 
 
 user: admin
+
 pass: admin
 
 ![image](https://github.com/user-attachments/assets/987b83e0-f3e3-46d7-a41c-f97dafade262)
